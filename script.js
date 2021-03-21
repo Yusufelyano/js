@@ -6,5 +6,5 @@ console.log("sueta")
 let $ibah
 let _hajah95
 // переменные с неправильным именем
-let 95mahajah
-let ibah!!
+//let 95mahajah
+//let ibah!!
